@@ -3,7 +3,7 @@ layout: page
 ---
 
 <style type="text/css">
-    html, body, #map-canvas { height: 700px; margin: 0; padding: 0;}
+    html, body, #map-canvas { height: 600px; margin: 0; padding: 0;}
 </style>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyANUaxrSJ0iz32ma94bjhHf2I9Fa7jncEw"></script>
@@ -11,8 +11,8 @@ layout: page
 <script type="text/javascript">
     function initialize() {
         var bounds = new google.maps.LatLngBounds(
-            new google.maps.LatLng(38, -123),
-            new google.maps.LatLng(32, -116)
+            new google.maps.LatLng(37.5, -122),
+            new google.maps.LatLng(34.5, -117)
         );
 
         var mapOptions = {
