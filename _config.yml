@@ -1,0 +1,20 @@
+# Site settings
+title: Where Is Whaleshark?
+#header-img: img/IMG_20150506_180510.jpg
+email: emenheiserj@gmail.com
+description: ""
+baseurl: ""
+url: "https::/www.whereiswhaleshark.com"
+#twitter_username: SBootstrap
+#github_username:  davidtmiller
+#facebook_username:  IronSummitMedia
+
+# Google analytics
+#googleAnalyticsID: "UA-62755191-1"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
