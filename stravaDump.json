@@ -1,5 +1,16 @@
 {
-  "stats": {}, 
+  "stats": {
+    "total_elevation_gain": {
+      "total": 20.3
+    }, 
+    "distance": {
+      "dailyAverage": 16283.7, 
+      "total": 16283.7
+    }, 
+    "moving_time": {
+      "total": 8839
+    }
+  }, 
   "rides": {
     "2020-10-06T21:47:32Z": {
       "distance": 16217.7, 
