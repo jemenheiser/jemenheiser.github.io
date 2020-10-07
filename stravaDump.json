@@ -1,17 +1,38 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 525.9
+      "total": 546.1999999999999
     }, 
     "distance": {
-      "dailyAverage": 55741.0, 
-      "total": 111482.0
+      "dailyAverage": 63849.85, 
+      "total": 127699.7
     }, 
     "moving_time": {
-      "total": 27233
+      "total": 36015
     }
   }, 
   "rides": {
+    "2020-10-06T21:47:32Z": {
+      "distance": 16217.7, 
+      "name": "Left the coffee pot on", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a4161293467", 
+        "summary_polyline": "akldFn|piVA?J?B@@CIS?yBCKMGiCEoC@iERo@LOLETG`DC^CjC?h@NTPL^AKCCDIADK?GY}@c@gKEc@MYe@k@gA}@}A{AcBsAi@k@c@Y_CqB]SWIg@Ca@Gg@\\IJCVMDWIY@SCqA_@e@GaBAy@Fa@Cc@a@e@YSEa@Yc@Q][y@a@{FqBm@O_@Cy@Uo@@g@GOIUBUK_@G{@GcAAmASy@@c@Is@CgEBmCIaCEe@?eBKy@CqFF_AFmA@{AM_AMaFJiBJaCMuBHo@Ck@G_@B}@?m@GgCFi@Ee@?aBG{@BaBLi@As@Fo@Ca@BWCq@?[BYFYEoBLaBF_@HgBN]Hk@@eB`@e@Au@Ls@Tc@@a@JUA{@Rg@@eATe@BeAR_@BsA^s@AaBVi@Pk@@k@HqB^qAd@aBReA\\qBb@yAHqBTqAJc@?q@Hm@B_AP[L}@Pc@NeAHoCp@yBTiBj@qCh@{@LeB`@}ALeBb@{@JsDv@i@DcDl@uFt@kAZmCf@_Fn@i@NaBNgEv@_E|@sAJg@Jg@B}B\\yBd@SNQDe@Mu@EKBq@CULSBQJcBp@cAh@}Aj@uGtCm@RoBz@oAp@gDrAa@DUNWHa@JW@g@CWBUFm@GaAD[Lw@JYNkBHm@Pe@\\?CM@EE[Ky@QMBWPMXdA]dCYrCi@nA[dAc@lFq@nBOl@Mj@E`Ca@fDo@tAG`@@f@Hz@Ep@DlEOdDu@~D]dBWxBc@`AMREj@WjCc@fCYhACpGw@tBCjF?jAI`A?bAKlDAhCMr@Ip@?z@GjACzBOhHMrFWz@B`CAtBD|@EnDJrB@jCMz@BtAAjDDbCI|@BnCQx@AhAFjBC|AFrD@x@DvAAhCK`B?n@ClBB~AUrAa@jAUfC]bCk@vEo@fAG|BWh@IbBa@pDUjBS|BQnAElAQzBKtB_@b@CtAWr@El@GtDo@nA@h@GhDo@tBe@xAWzCUfC[pBEx@MxBSz@UvAQvCo@jEi@\\C`B@nBKvD?~ADlBCbAJJNBNEREDGDe@My@Ts@JQHG?oAi@_@Wa@a@KS?UHINApCH|CAjAFh@H\\Nn@f@bB~@^ZRXdAt@nBhBxBzA^^h@x@`@Xb@FnCBrEMfCAPFPND^J\\C\\@LA`@GBMGI?"
+      }, 
+      "total_elevation_gain": 20.3, 
+      "average_speed": 1.847, 
+      "moving_time": 8782, 
+      "start_latlng": [
+        37.59, 
+        -122.32
+      ], 
+      "max_speed": 3.7, 
+      "end_latlng": [
+        37.59, 
+        -122.32
+      ]
+    }, 
     "2020-09-18T14:06:33Z": {
       "distance": 111416.0, 
       "name": "Morning Jaunt", 
