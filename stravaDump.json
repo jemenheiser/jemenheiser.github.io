@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 20.3
+      "total": 76.2
     }, 
     "distance": {
-      "dailyAverage": 16283.7, 
-      "total": 16283.7
+      "dailyAverage": 24835.550000000003, 
+      "total": 49671.100000000006
     }, 
     "moving_time": {
-      "total": 8839
+      "total": 24118
     }
   }, 
   "rides": {
@@ -31,6 +31,27 @@
       "end_latlng": [
         37.59, 
         -122.32
+      ]
+    }, 
+    "2020-10-07T20:04:36Z": {
+      "distance": 33387.4, 
+      "name": "Aquatic Park", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a4165801381", 
+        "summary_polyline": "ikldFl{piVC`@TFIwCMMmCCmG\\{BA_C{CmEeD{BiCwDkDc@Cm@R}@p@w@hAkAbAgCM{CiB_@o@m@c@}BaA}AkAw@UcBaAiA{AoAeAa@kAi@e@s@Y{G{AgH{@mDeAsBcAwCgCkAg@oIOeGZ_Eu@}DWkEcAgDqAmCe@{A{@mBi@kDA{Ca@mJM{CPgAGyIh@gCk@}A?eHn@aE`AyIFqGn@eHQkEx@qFXqBn@uEn@}Z|BiHC}@]sBwAmAQqE|AcBb@iAn@}@DgDhA_El@iDx@wADcAVeEIcCf@iAf@mEd@k@G}@c@oBL_@PoB[q@BkAZkBzAj@V`@b@|@@hAv@sBsBc@WiB?wA_@wAPw@q@gA]aAIkCX}@c@s@CaAZsAz@eCbCk@bAy@f@aCOwE~@q@_@wAIi@Hi@d@yCi@kDL_AE{A[wALkAn@gDLo@d@oCx@kFbG_BrDiAbAuDhEqFlBuGlD{Bx@iDjBkFQcBBo@PyCnBqCnD{An@iAV{A@oBh@_BEwBn@uBJmEbAyCRqDl@{EJoC~@oFNgCXqDv@WRc@g@_Aa@qB_@{AImBb@oF~AyD`@{CjAqHbAcCr@kLrBiCv@_@EuG~AcE|AgHbCiEfA}FrCkChAo@Tq@BeEjBu@R]GsCz@cGxDwF`CiE`CsLpIcBz@gD`AcEv@yG~CmARcGbCwJ|FmAVqKdGsHlGqEdD{A|AgJnHsQ`L}ErE_IrEyFrCeHdEqB`BgEjBwDbCq@PmHnDoErCmCx@uLjLoEfDuCrCqDzCsJtF{A^gDfBoFdD{CxBgB~@sC~BwCfBqFzE{KdIoA~AkEvCgGrC}JlDsHbBw@FgF|A{P~DoDpAwBnAmNjEyAr@sGnBgEdBwA`AiD`BkDjAqEfCkPfI_FrDuFtCgFbDeAVeEfB_TdMo@r@i@hAwFpDuBhB_BHgHbB_FdBuEj@cDhAgAl@_KrBmB~@eBtA{LxEkA`AkH`IaCf@qFvBQXCd@\\b@PfAf@f@C\\kAPiB~@aDjAeBfAcCzBeK`LmHlGcHfIaCxDsC`Dk@b@_DhE_FbFk@|@?ZdCrAfDtAB\\kAv@kDjD_EfFuA|BqJ`N_D`G{BhCcBlCoFlKqBfFHXl@^~@lA|C~BvDdEpFtE|GpGlGbHrE`E?Vm@z@i@zAyB~HmAlFSbBu@nCKhA|AJfIqAtFuApK_EdAAd@Vt@c@fAFfC~@CZa@l@}@xBUzAnA}@dTeJsRxI"
+      }, 
+      "total_elevation_gain": 55.9, 
+      "average_speed": 2.185, 
+      "moving_time": 15279, 
+      "start_latlng": [
+        37.59, 
+        -122.32
+      ], 
+      "max_speed": 7.8, 
+      "end_latlng": [
+        37.81, 
+        -122.43
       ]
     }, 
     "2020-10-06T03:49:15Z": {
