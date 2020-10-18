@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 567.8
+      "total": 616.9
     }, 
     "distance": {
-      "dailyAverage": 33506.98333333333, 
-      "total": 201041.9
+      "dailyAverage": 32884.41428571429, 
+      "total": 230190.9
     }, 
     "moving_time": {
-      "total": 101497
+      "total": 111194
     }
   }, 
   "rides": {
@@ -52,6 +52,27 @@
       "end_latlng": [
         37.81, 
         -122.43
+      ]
+    }, 
+    "2020-10-18T16:40:40Z": {
+      "distance": 29149.0, 
+      "name": "home again", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a4213424123", 
+        "summary_polyline": "qsweFvefjV?AB?ACBRE^@A@?AGFJH@HCFEFODSY_B]m@gA{@[gAOUOK_@I_BFc@A]ISQ}A{BcBsCaAkB]{@c@{A_@}@Ss@g@yBIu@A_@CgDGyB?yBG{C?iDBi@?oAG}GB{NPuKDkDb@{Eh@oH\\mBXmBj@yC`@{AtA}EnAgDf@aAb@eAzBoEz@oBfCsDf@cAV]n@kAfAuAz@_AbB{BjEqFtDgEdBaBXa@d@g@|AmBXW`AgAx@w@j@o@|FwFtF{EdBuAxDcD`Aq@z@s@pFaE`IwFf@c@jBsAz@u@hE_DxAkA|JkHl@g@x@m@lB{AvByAxDqCzD}CtCsBhFoDjFeDd@]p@a@fDeCfAs@zC}AbAm@|EcCvAw@hCmAdDiBbEwBvBcAj@]l@WvF_DjFoCp@c@xBiAdCmAr@_@v@]lEyBnEsB|E{BfCaAz@a@hCgAhEuB`NcGlI_ExC}AfEeCf@WnDqBjE{BxCaBvBgA\\UvEqB`D{Az@[hAi@zCgAlBu@pDcBtAg@dDsA`A[nKaFjA[hDs@|Ac@pDq@dB]b@ObCc@r@SfB[lA[tAWxD_AfDq@~Bi@hBg@|@OpD_A~Dy@fCm@dEcAvAc@fCi@bB]jAOr@MrPwBrHs@t@E|K_AlMsAxG}@p@IbC_@lC[x@Od@C\\I~AUhCY`JsArDa@bCa@hAKbAMlFaA~Cc@~JiApHeAvCUjGq@bEm@~HuAxEs@xBa@jFu@~Bc@fAUdGaAhR{BrEs@dD_@pBYvFo@nJmAhJeAx@OpBUdAQlLwApCc@n@GxJgArDYnD_@dAE|@KlHoAdH}A`H}Az@WxIqBdDy@~VeHtA[pCw@jD{@hCw@dEgAhF_BbD}@pD{@nEkA|QiF|OqDrAUdE_ApE}@pFqAlGwAdCo@hBi@~Bk@dKwClIgCzBk@xC_AbD_AlO_E`Du@tIyBzNmEjJgCbDeAzE}ApFyAvE{AjFmBnHwBx@[~GqBxGsBhFgBxAc@lQ}FzPwEbCw@|IiCvAg@pA_@dCg@fDk@~Dg@`K{@tBYxPwClDu@j@OpAW|G{@|Io@bGSrHC|FFbADxCPxD\\zB`@~A`@fA^b@RpBfA~B|AzBvBrA`BhAnAfB~AlAvAPNRJ\\D|EJfFOz@@LJFN?ZLrAANSCCB"
+      }, 
+      "total_elevation_gain": 49.1, 
+      "average_speed": 3.006, 
+      "moving_time": 9697, 
+      "start_latlng": [
+        37.81, 
+        -122.43
+      ], 
+      "max_speed": 5.1, 
+      "end_latlng": [
+        37.59, 
+        -122.32
       ]
     }, 
     "2020-10-06T03:49:15Z": {
