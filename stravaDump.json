@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 821.7
+      "total": 616.9
     }, 
     "distance": {
-      "dailyAverage": 37359.850000000006, 
-      "total": 298878.8
+      "dailyAverage": 32884.41428571429, 
+      "total": 230190.9
     }, 
     "moving_time": {
-      "total": 123895
+      "total": 111194
     }
   }, 
   "rides": {
@@ -52,27 +52,6 @@
       "end_latlng": [
         37.81, 
         -122.43
-      ]
-    }, 
-    "2020-12-24T16:24:12Z": {
-      "distance": 68687.9, 
-      "name": "Merry Christmas, everyone!", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a4513690209", 
-        "summary_polyline": "yc{lExsmnUZuAhADOhX@zs@LnGU~EFdPnUb@_@xw@L`Qe@fJH~RSdEz@lHBhJhAh@fVdHlXpKvP`KhGxBfCfCbDt@lBbBvJ|FdIjEfBd@w@tEYtHJbTMbDR~NSlIRvMoBnMK|BXxElBjQ@nw@V`HKfSf@zOp@l`A?hr@NjGMxJPxDH~`@Ol\\VnK?zh@PpB@hKUhCRbRKtPPxK?jy@Lnu@NvLAxISvArBrFj@^Wn@L|@nTbp@fDbLz@hJBjGc@vDvBzAgc@zg@gSfQ[rA?fDJ~Ao@XwBfCUDe@eAWBeB|DsBnC_VhXgf@bl@q@p@iAqA_@LgA|DqAvBqR~T_D|BuClAy_@`KyCvA{EfE{DlGoMhb@wEjMeInRqH|RoBzDmBdCcDzB_FrA}PPcD\\ISAVcGvAaE~BcT~Q}CvCZbAu@lA~F~ZpAzITvDKrEo@jHmH`m@[nFg@fBzAMtQxJxDm@hDtAfAp@NhAyCbH_DtEkAvDeBvLkCvIKvCwAnHqAlFqBxEeArIiAr@{@pDiAFa@|FmBzJgBfCcAfEm@vGi@~AB~AgArIgG~b@P|C_@hGM~@i@z@c@zF}@lCUtCApEcCh\\q@xD@hBu@rOHpZpCpF`@FxAw@vL|VvBlFdArEtA|KUh@c@Qk@iFuAcB}EcAw@Zu@|DsCxJn@f@B|@Zj@dAp@D\\j@OJ`@Ah@qAl@a@rAY~ADjA~@pC`CjA`Ca@vBMp@rBo@xB_E`KcCoAaFa@YRW|@VhBEjEaAj@BpBc@`BiCEIvDgAvFQp@u@LiLY_CTgk@PcHg@m`@b@mDo@eA`@kBF}VJkC[cGHqCg@{K^lNa@A_@UUsAG@kATs@@aDRMRLq@bL|@nQNhHKpf@yQ?_OSsr@PsASEfAe@AOb@LhHQd]yH|_@cFtWqBbM_@bFs@dSm@vfBYjDh@js@S^i`AoAyF]eHRcSUgT\\yP_@]TmXIcOVkFi@wH_C}Eo@wBHqEfA{FvDsFdB}i@tDmBMwA`@{I\\}Bz@yBFQ\\DxSQ~LsC~H_AlDOpDG`IzK|J|AfAsEpCgM|JoNvIqF`GsAnGoCxCsZ~I_LhCsBtAsAvBy@HUnB]RaEKcMj@wCImNf@eHMwGb@q[P}[x@eMAeFZgLk@{PIoXZmS_@mE`@mCUoFL_g@E_FYkIV_[EeE\\[hAB|Us@xGOpINjIYjc@NzIO|DgUUcd@H}[XAb`@OnDTxEKjTd@`H"
-      }, 
-      "total_elevation_gain": 204.8, 
-      "average_speed": 5.408, 
-      "moving_time": 12701, 
-      "start_latlng": [
-        33.73, 
-        -117.88
-      ], 
-      "max_speed": 12.4, 
-      "end_latlng": [
-        33.94, 
-        -118.32
       ]
     }, 
     "2020-10-18T16:40:40Z": {
